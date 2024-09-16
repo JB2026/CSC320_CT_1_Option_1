@@ -16,7 +16,7 @@ public class PersonOutput {
 		System.out.println("Last Name: " + lastName);
 		System.out.println("Address: " + address);
 		System.out.println("City: " + city);
-		System.out.println("Zipcode: " + zip);
+		System.out.println("Zip code: " + zip);
 	}
 
 }
