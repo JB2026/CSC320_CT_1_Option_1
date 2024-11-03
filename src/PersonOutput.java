@@ -1,6 +1,9 @@
 
-
-// A class that outputs a person's information
+/** 
+* A class that outputs a person's information
+* 
+* @author  Joshua Borck
+*/
 public class PersonOutput {
 
 	public static void main(String[] args) {
@@ -18,5 +21,4 @@ public class PersonOutput {
 		System.out.println("City: " + city);
 		System.out.println("Zip code: " + zip);
 	}
-
 }
