@@ -1,4 +1,4 @@
-package com.CSC320_CT_1_Option_1;
+
 
 // A class that outputs a person's information
 public class PersonOutput {
